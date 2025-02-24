@@ -1,0 +1,29 @@
+@charset "utf-8";
+.bg_foto1 {
+    background-image: url(IMG_6502.gif);
+    background-position: -103% 0%;
+    background-size: contain;
+}
+.bg_fondo {
+    background-color: #BAFBFF;
+    color: #000000;
+}
+.bg_fondo3per {
+    background-image: url(images/IMG_6826.png);
+    background-position: 49% -4%;
+    background-size: 598px 208px;
+}
+
+.bgfotojugeo1 {
+    background-image: url(IMG_6576.png);
+}
+
+.bg_foto2 {
+    background-image: url(IMG_6501.gif);
+}
+.bg_fondo2 {
+    background-color: #FCECCC;
+}
+.bg_fondo3 {
+    background-color: #EFA56B;
+}
